@@ -1,6 +1,7 @@
 Comandos Basicos de Guit
 Comando: Git init -- Crear un nuevo proyecto en la carpeta
 Comando: Git add "nombre.extension" -- Pasar el archivo al stating
+Comando: Git add . -- Agregar todos los archivos que hay en la carpeta
 Comando: Git commit "nombre.extension" -m "Descripcion" -- Pasar el archivo al repostorio
 Comando: Git status -- Ver el estado de todo el proyecto
 Comando: Git Log -- Ver el historial de modificaciones en todo el proyecto (detallado)
@@ -10,3 +11,4 @@ Comando: Git Checkout master -- Volver al Head anterior, no se debe haber modifi
 Comando: Git Branch -- Te va a mostrar todas las ramas que hay creadas
 Comando: Git Show -- Mustra informacion sobre la version del proyecto en la que estas y en que rama te encuentras
 Comando: Git Marge "Nombre De la Rama" -- Unir dos ramas. Si estas en master y poner git merge "nombre" entonces todo lo que esta en merge pasa a master.
+Comando: Git Commit -am "Descripcion" -- Poner el git add y git commit en un solo Comando
