@@ -7,4 +7,5 @@ Comando: Git Log -- Ver el historial de modificaciones en todo el proyecto (deta
 Comando: Git Log --oneline -- Historial en una sola linea, no tan detallado.
 Comando: Git Checkout "Codigo" -- (el codigo se ve en el log) Permite volver a una modificacion hecha anteriormente
 Comando: Git Checkout master -- Volver al Head anterior, no se debe haber modificado nada.
-
+Comando: Git Branch -- Te va a mostrar todas las ramas que hay creadas
+Comando: Git Show -- Mustra informacion sobre la version del proyecto en la que estas y en que rama te encuentras
